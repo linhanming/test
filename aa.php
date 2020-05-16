@@ -1,7 +1,6 @@
 aaaaaaaaaaaaaaa
 222222222222222222222
+66666666666666666666
+hhhhhhhhhhhhhhhhhhh
 ccccccccccccccc
-aaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaa
-ccccccccccccccc
-99999999999999999999999
+pppppppppppppppppppp
