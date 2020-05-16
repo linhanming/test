@@ -1,10 +1,7 @@
-aaaaaaaaaaaaaaaaaaaaaaa
-666
-aaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaa
-6666666666666666
-+++++++++++++++++++++++
+666666666666666666666
+666666666666666666666
+666666666666666666666
+666666666666666666666
+666666666666666666666
+666666666666666666666
+666666666666666666666
